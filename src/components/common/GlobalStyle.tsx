@@ -27,6 +27,9 @@ const defaultStyle = css`
     text-decoration: none;
     cursor: pointer;
   }
+  #gatsby-focus-wrapper {
+    height: 100%;
+  }
 `
 
 export default GlobalStyle
